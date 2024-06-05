@@ -6,8 +6,6 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: You can search by pdf; you will find the strangest things. (Make sure to still practice cautious internet browsing)
 
-<img src ="file:///D:/OutsideofCLass/Portfolio/photos/IMG_8142.JPG">
-
 <!---
 Chopsayshi/Chopsayshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
